@@ -27,9 +27,48 @@ The internet was infrastructure - the web gave the Inernet a user-interface and 
 
 Images pop up in another screen, due to slow network.
 
-Original internet design intended _collective editing_ on servers all around the world.
+Tim Berner-Lee original internet design intended _collective editing_ on servers all around the world.
+
+**SLAC server** - first server in the US.
+
+## Steve Jobs and the World Wide Web
+
+ns - NeXT applications.
+primary browsers and web server developed on NeXT and linux based sys.
+Apple computers more graphical for browser's like Mosiac.
+
+### explosive growth on the web
+
+- web invented in 1990s
+- cable modem comes into homes in mind-1990s
+
+
+[packet-switching](http://www.linfo.org/packet_switching.html).
+
+**Mosiac Web Browser**, first consumer web browser, dev at NCSA.
+
+worked on Mac, PC, xWindows, Unix and Linux. Mozilla became a open standard, open source web browser while other devs made fortune off of browsers like Netscape.
+
+
+### The Cave, building on the NCSA
+
+- energy, resources, free-space, 
+- a browser that works across the big-3 platforms: mac, pc and xWindows.
+
+useful [links](http://www.linfo.org/index.html). Linux Information Project.
 
 
 
-Tim Berner-Lee and Tobert Call
+
+
+
+
+
+
+
+
+
+
+
+
 
